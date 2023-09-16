@@ -1,0 +1,8 @@
+- inconsistency of source data
+solution : data processing especially data mining.
+- Template contains the similar fields.
+solution : prompt engineering.
+- Choice of sample data from source data. - the sample should accurately reflect the characteristics and distribution of the population
+solution : determine based on analysis of source dataset.
+- Computational cost.
+solution : optimize code.
